@@ -1,6 +1,10 @@
 # Cafe-Analysis
-# Objective
-This project aimed to enhance data analysis skills by cleaning and exploring a dirty café sales dataset from Kaggle. The aim was to seekey sales trends and performance insights using Python’s Pandas and Matplotlib libraries for preprocessing and visualization, and Power BI for dashboard creation.
+## Objective
+This project aimed to enhance data analysis skills by cleaning and exploring a dirty café sales dataset from Kaggle. The aim was to seekey sales trends and performance insights using Python’s Pandas and Matplotlib libraries for preprocessing and visualization and Power BI for dashboard creation.
+## Dashboard
+![Cafe Dashboard](dashboard.png)
+
+
 # Key Findings
 ## Overall Performance
 - The café generated $80,444.50 in total revenue across 27,243 units sold.
