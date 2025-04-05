@@ -5,7 +5,7 @@ This project aimed to enhance data analysis skills by cleaning and exploring a d
 ![Cafe Dashboard](dashboard.png)
 
 
-# Key Findings
+## Key Findings
 ## Overall Performance
 - The café generated $80,444.50 in total revenue across 27,243 units sold.
 - June recorded the highest revenue of the year.
